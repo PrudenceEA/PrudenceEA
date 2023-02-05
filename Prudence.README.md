@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 My name is Prudence AYIVI 
 
 <!--
 **PrudenceEA/PrudenceEA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,4 +21,4 @@ I'm interested in IA/ML especially Computer Vision and Python for science i.e as
 I'm still learning a lot day after to reach my goals in terms of knowledge and experience in Programming. 
 I am looking for Frontend position to apply my knowledge, create new things and learn.  
 
-- 📫 : You can reach me at ayiviprudenceenock@gmail.com 
+- 📫 : You can reach me at ayiviprudenceenock@gmail.com or on linkedin : https://www.linkedin.com/in/prudence-ayivi/.
